@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+
+  //////1
+  function twoParameter(a, b) {
+    b(a)
+  }
+
+  twoParameter(1, (c) => {
+    console.log(c)
+  })
+
+  ////////2
+
+  function threeParameter(q, w, e) {
+    console.log(e(q, w))
+  }
+
+  threeParameter(1, 2, (q, w) => {
+    return q + w
+  })
+
+  /////////3
+
+  function filtParameter(arr, cb) {
+    let arrNew = [];
+    for (let i = 0; i < arr.length; i++) {
+      if (cb(arr[i])) {
+        arrNew.push(arr[i])
+      }
+    }
+    return arrNew
+  }
+
+  let arr = [1, 4, 12, 34, 23, 19];
+  let arr2 = filtParameter(arr, (item) => {
+    return item > 10;
+  })
+  console.log(arr2)
+
+ ////////4
+
+  function mapParameter(arr3, clb) {
+    let arrNew2 = [];
+    for (let i = 0; i < arr3.length; i++) {
+        arrNew2.push(clb(arr3[i]))
+      }
+    return arrNew2
+  }
+  let arr3 = [2, 5, 14, 39, 27, 45];
+  let arr4 = mapParameter(arr3, (item) => {
+    return item + 10;
+  })
+  console.log(arr4)
+
+
+
+</script>
+</body>
+</html>
