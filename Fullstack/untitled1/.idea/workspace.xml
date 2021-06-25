@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a6ce53-057d-48b1-afca-1f5c98b1c539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../season_1/.idea/Fullstack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/28.04.2021 Node js/.idea/28.04.2021 Node js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/28.04.2021 Node js/node-1/.idea/node-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/28.04.2021 Node js/node-2/.idea/node-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/28.04.2021 Node js/nodeKurs/.idea/node.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/chalk_100521/.idea/chalk_100521.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_1/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/11_DOM ToDo List with State/.idea/11_DOM ToDo List with State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/11_DOM ToDo List with State/gdfhgdfghdf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/14_ Node_JS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/14_ Node_JS/.idea/14_ Node_JS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/14_ Node_JS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../season_2/14_ Node_JS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../повторение мать учения/.idea/повторение мать учения.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../season_2/6_Callback/callback1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../season_2/6_Callback/callback1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/lkjkjhkjh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/massiv.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tWUZyPJh0Z9DKQpMjNMlTHadvz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../season_2/14_my-first-server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a6ce53-057d-48b1-afca-1f5c98b1c539" name="Default Changelist" comment="" />
+      <created>1622884400593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622884400593</updated>
+      <workItem from="1622884408046" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<style>
+  .img { width: 750px; } .formAction{ width: 750px; }
+</style>
+
+<h4>{{post.title}}</h4>
+<img class="img" src="{{post.imageURL}}" />
+<p>{{post.text}}</p>
+
+<hr />
+<p><h6>Комментарии:</h6></p>
+{{#each comments}}
+  <p><div>{{comment}}</div></p>
+{{/each}}
+<form class="formAction" action="/comment/{{post._id}}" method="post">
+  <div class="input-group mb-3">
+    <input
+      type="text"
+      name="comment"
+      class="form-control"
+      placeholder="Введите ваш комментарий"
+      aria-label="Recipient's username"
+      aria-describedby="button-addon2"
+    />
+    <button
+      class="btn btn-primary"
+      type="submit"
+      id="button-addon2"
+    >Опубликовать</button>
+  </div>
+</form>

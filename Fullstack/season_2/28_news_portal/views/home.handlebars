@@ -1,0 +1,22 @@
+<style>
+  .image { width: 750px; } .text { width: 950px; }
+</style>
+
+{{#each categories}}
+  <a href="./news/category/{{_id}}">{{name}}</a>
+{{/each}}
+<h2>
+  Главные новости
+</h2>
+<p></p>
+<p></p>
+<p></p>
+<div>
+  {{#each news}}
+    <div><h5>{{title}}</h5></div>
+    <div class="text">{{text}}</div>
+    <p></p>
+    <img class="image" src="{{imageURL}}" />
+    <hr /><p></p><p></p><p></p>
+  {{/each}}
+</div>
